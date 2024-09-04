@@ -29,7 +29,7 @@ int is_delimeter(char c, char *d)
 }
 
 /**
- * is_alpha = checks if a char is an alphabet
+ * is_alpha - checks if a char is an alphabet
  * @c: input char
  * Return: 1 for true and 0 otherwise
  */
